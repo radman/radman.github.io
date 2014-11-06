@@ -1,0 +1,87 @@
+ol, ul, li {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+	font-family: Baskerville, Garamond, Palatino, "Palatino Linotype", "Hoefler Text", "Times New Roman", serif;
+	font-size: 16px;
+	line-height: 20px;
+	background-image: url('../image/pw_maze_white_2x.png');
+}
+
+h1{
+	font-family: 'Special Elite', Baskerville, Garamond, Palatino, "Palatino Linotype", "Hoefler Text", "Times New Roman", serif;
+}
+
+h1, h2, h3{
+	margin-top: .5em;
+}
+
+ol, ul{
+	margin-top: 1em;
+	margin-bottom: 1em;
+  list-style: none;
+}
+
+ol ol {
+  margin-top: 0.3em;
+  margin-bottom: 0.3em;
+}
+
+ol li{
+  margin-left: 1em;
+  list-style-type: disc;
+  list-style-position: outside;
+}
+
+em{
+	font-variant: italic;
+}
+
+strong{
+	font-weight: bold;
+}
+
+h1{
+	font-weight: bold;
+	font-size: 2em;
+	line-height: 2.2em;
+}
+
+h2{
+	font-size: 1.5em;
+	line-height: 1.7em;
+}
+
+h3{
+	margin-top: 1em;
+	font-weight: bold;
+}
+
+article{
+	max-width: 500px;
+	margin: 2em auto;
+}
+
+article > p{
+	margin-bottom: .5em;
+}
+
+small{
+	font-size: .7em;
+}
+
+th {
+  text-align: left;
+  vertical-align: top;
+}
+
+th, td {
+  padding-bottom: 1em;
+}
+
+
+
+
+
